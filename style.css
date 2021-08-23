@@ -1,0 +1,19 @@
+header{
+    background-color:#264653 ;
+    
+  }
+.bottom{
+    background-color:#264653 ;
+    
+  }
+.bottom ul a{
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+    
+  }
+.gray-image{
+   filter: grayscale(100%);
+    
+  }
+  
